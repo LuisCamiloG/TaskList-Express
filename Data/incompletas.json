@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "descripcion": "Aprender JavaScripts",
+        "estado": false
+    },
+    {
+        "id": 1,
+        "descripcion": "Aprender Node.JS",
+        "estado": false
+    },
+    {
+        "id": 2,
+        "descripcion": "Aprender Python",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "descripcion": "Aprender React",
+        "estado": false
+    },
+    {
+        "id": 4,
+        "descripcion": "Aprender Redux",
+        "estado": false
+    },
+    {
+        "id": 5,
+        "descripcion": "Aprender PHP",
+        "estado": false
+    },
+    {
+        "id": 6,
+        "descripcion": "Esta es mi nueva tarea con React JS",
+        "estado": false
+    }
+]
