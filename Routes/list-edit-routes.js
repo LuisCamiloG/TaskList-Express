@@ -3,7 +3,7 @@ const router = express.Router();
 const data = require("../Data/datos.json");
 const fs = require("fs");
 
-router.post("/guardar", express.json(), (req, res) => {
+router.post("/guardar",  (req, res) => {
   const datos = req.body;
   data.push(datos);
   fs.writeFileSync("./Data/datos.json", JSON.stringify(data));
