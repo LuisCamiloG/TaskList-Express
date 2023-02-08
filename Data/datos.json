@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "descripcion": "Esta es mi nueva tarea con JavaScript",
+    "estado": false,
+    "idUser": "LuisCamilo"
+  },
+  {
+    "id": 1,
+    "descripcion": "Esta es mi nueva tarea con Express",
+    "estado": false,
+    "idUser":"JoseNajera"
+  },
+  { "id": 2, "descripcion": "Aprender Python", "estado": false,     "idUser":"JoseNajera"
+}, 
+  { "id": 3, "descripcion": "Aprender React", "estado": false,     "idUser":"LuisCamilo"
+},
+  { "id": 4, "descripcion": "Aprender Redux", "estado": false,     "idUser":"JoseNajera"
+},
+  { "id": 5, "descripcion": "Aprender PHP", "estado": false,     "idUser":"LuisCamilo"
+}
+]
