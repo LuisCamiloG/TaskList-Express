@@ -1,0 +1,7 @@
+Mi nombre es Luis Camilo Garcia, soy desarrollador de software de la fundación ET. El dia de hoy vengo a presentarles una pequeña app que diseñé el cual tiene como función crear, editar, eliminar tareas.
+
+¿Qué es mi producto y para que sirve?
+El producto trata de una pequeño servidor funcional, el cual nos ayuda a mostrar, guardar, editar y eliminar tareas. Cada item tiene su ruta, la cual permitira navegar con mayor facilidad y el usuario no tenga dificultades al momento de usar el servidor. Este servidor tiene la función de añadir tareas diarias que quiera realizar una persona, tiene la ventaja de guardar dicha tarea, esta app muestra las tareas pendientes y las tareas realizadas y cuando la persona ya la haya cumplido puede eliminarla o modificarla en su defecto. Tiene rutas protegidas por medios de tokens de verificacion, el cual no ayuda a tener una navegacion segura, sin ningun tipo de problema o errores.
+
+¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+Es un servidor sencillo, la cual ayudaria mucho a las personas en su rutina, ya que por sus funciones la persona puede listar tareas que quiera realizar en una semana, mes, o en un año, a su vez puede marcarlas como realizadas o dejarlas pendintes para cuando quiera hacerlas, seria un servidor muy bueno para las personas que quiza se les olvidan tareas que deben realizar. Tiene como metodo de proteccion, rutas protegidas por medio de token, los cuales tienen como funcion proteger el programa de personas que no tengan autorizacion.
